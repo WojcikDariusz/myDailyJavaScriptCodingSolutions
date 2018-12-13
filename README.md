@@ -12,8 +12,9 @@ Bonus: Can you do this in one pass? </pre>
 
 ##### Task 2: 
 
-<pre>Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
-Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+<pre>Given a sorted array nums, remove the duplicates in-place such that each element appear only once 
+and return the new length. Do not allocate extra space for another array, you must do this by modifying 
+the input array in-place with O(1) extra memory.
 
 Example:
 Given nums = [1,1,2],
@@ -23,7 +24,9 @@ It doesn't matter what you leave beyond the returned length.</pre>
 #### Task 3:
 
 <pre>
-Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+Given an array of integers, return a new array such that each element at index i of the new array is the
+product of all the numbers in the original array except the one at i.
 
-For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. 
+If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 </pre>
